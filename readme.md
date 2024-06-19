@@ -14,7 +14,7 @@ This repository offers an implementation of the **Monocular Depth Constraint** m
 
 ## Getting Started
 ![image](https://github.com/INDEX108/VINS_monodepth_constrain/assets/53263493/c817b596-4cea-4f32-9f97-cb6511732866)
-
+For the loopback part of the framework, please refer to the open source work of the author kajo-kurisu. https://github.com/kajo-kurisu/D_VINS
 To integrate the Monocular Depth Constraint module with your VIO system, follow these steps:
 
 1. **Clone the Repository**:
